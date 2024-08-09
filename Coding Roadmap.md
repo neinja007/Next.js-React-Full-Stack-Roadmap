@@ -1,0 +1,407 @@
+***
+
+This roadmap was heavily inspired by [WebDevSimplified](https://www.youtube.com/@WebDevSimplified)'s [Frontend & Backend Roadmaps](https://webdevsimplified.com/web-dev-roadmap.html), the [Next.js Documentation](https://nextjs.org/docs), and the [React Reference](https://react.dev/reference/react).
+
+Other Sources: [MDN Docs](https://developer.mozilla.org/en-US/), [w3schools](https://www.w3schools.com/), [YouTube](https://www.youtube.com).
+
+**All of these were essential to making this roadmap possible**.
+
+***
+
+It is recommended to follow this roadmap **step-by-step**.
+
+For problems, recommended resources, or other requests, **please refer to [this github repo](https://github.com/neinja007/Next.js-React-Full-Stack-Roadmap/issues)** (a star would also be very appreciated) or send an email to [slab-photo-puppet@duck.com](mailto:slab-photo-puppet@duck.com).
+
+***
+
+**Additional Resources**:
+- [w3schools](https://www.w3schools.com/)
+	- [HTML](https://www.w3schools.com/html/default.asp)
+	- [CSS](https://www.w3schools.com/css/default.asp)
+	- [JavaScript](https://www.w3schools.com/js/default.asp)
+	- [React](https://www.w3schools.com/react/default.asp)
+	- [TypeScript](https://www.w3schools.com/typescript/index.php)
+- [React Reference](https://react.dev/reference/react)
+- [Next.js Documentation](https://nextjs.org/docs)
+- WebDevSimplified
+	- [YouTube Channel](https://www.youtube.com/@WebDevSimplified)
+	- [Roadmaps](https://webdevsimplified.com/web-dev-roadmap.html)
+	- [Blog](https://blog.webdevsimplified.com)
+
+***
+
+- [ ] General
+	- [ ] Version Control
+		- [ ] Basics: [Video](https://youtu.be/IHaTbJPdB-s)
+		- [ ] Advanced
+			- [ ] [Video](https://youtu.be/mnmYwRoSisg)
+			- [ ] [Article](https://blog.webdevsimplified.com/2021-10/advanced-git-commands/)
+	- [ ] JSON
+		- [ ] [Video](https://youtu.be/iiADhChRriM)
+		- [ ] [Article](https://www.w3schools.com/js/js_json.asp)
+	- [ ] REGEX: [Video](https://youtu.be/rhzKDrUiJVk)
+	- [ ] Basic Security
+		- [ ] Cross Site Scripting
+			- [ ] [Video](https://youtu.be/ns1LX6mEvyM)
+			- [ ] [Article](https://blog.webdevsimplified.com/2020-09/javascript-xss/)
+		- [ ] JWT: [Video](https://youtu.be/7Q17ubqLfaM "https://youtu.be/7Q17ubqLfaM")
+	- [ ] Testing
+		- [ ] Basics: [Video](https://youtu.be/FgnxcUQ5vho)
+		- [ ] Test Driven Development: [Video](https://youtu.be/gJjPWA8wpQg)
+- [ ] HTML
+	- [ ] Basics: [Playlist](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8BoXcpCUvdmdPZFuR5y2lV)
+		- [ ] Basics 1: [Video](https://www.youtube.com/watch?v=BvJYXl2ywUE&list=PLZlA0Gpn_vH8BoXcpCUvdmdPZFuR5y2lV&index=1&t=17s&pp=iAQB)
+		- [ ] Basics 2: [Video](https://www.youtube.com/watch?v=PypMN-yui4Y&list=PLZlA0Gpn_vH8BoXcpCUvdmdPZFuR5y2lV&index=2&pp=iAQB)
+		- [ ] Basics 3: [Video](https://www.youtube.com/watch?v=1rbo_HHt5nw&list=PLZlA0Gpn_vH8BoXcpCUvdmdPZFuR5y2lV&index=3&pp=iAQB)
+		- [ ] Basics 4: [Video](https://www.youtube.com/watch?v=bFvjE4ZRtSE&list=PLZlA0Gpn_vH8BoXcpCUvdmdPZFuR5y2lV&index=4&pp=iAQB)
+	- [ ] Forms: [Video](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
+	- [ ] Emmet: [Video](https://www.youtube.com/watch?v=V8vizNQKtx0)
+- [ ] CSS
+	- [ ] Selectors
+		- [ ] [Video](https://www.youtube.com/watch?v=l1mER1bV0N0)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-12/css-selectors/)
+	- [ ] Inheritance
+		- [ ] [Video](https://www.youtube.com/watch?v=N8tFrMZp_wA)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-05/initial-inherit-revert-unset/)
+	- [ ] Specificity
+		- [ ] [Video](https://youtu.be/CHyPGSpIhSs)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-02/css-specificity/)
+	- [ ] Box Model
+		- [ ] [Video](https://youtu.be/rIO5326FgPE)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-12/box-model/)
+	- [ ] Position
+		- [ ] [Video](https://youtu.be/jx5jmI0UlXU)
+		- [ ] [Article](https://blog.webdevsimplified.com/2022-01/css-position/)
+	- [ ] Display: [Video](https://youtu.be/Qf-wVa9y9V4)
+	- [ ] Flexbox
+		- [ ] [Video](https://youtu.be/fYq5PXgSsbE)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-11/flexbox/)
+	- [ ] Grid: [Video](https://youtu.be/9zBsdzdE4sM)
+	- [ ] Calc
+		- [ ] [Video](https://youtu.be/x7EWFoRzAkk)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-07/css-calc/)
+	- [ ] Pseudo Elements
+		- [ ] [Video](https://youtu.be/OtBpgtqrjyo)
+		- [ ] [Video](https://www.youtube.com/watch?v=e1KpKBHJOrA)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-12/css-pseudo-elements/)
+	- [ ] Pseudo Classes
+		- [ ] [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+		- [ ] [Video](https://www.youtube.com/watch?v=kpXKwDGtjGE&pp=ygUSY3NzIHBzZXVkbyBjbGFzc2Vz)
+	- [ ] Custom Properties: [Video](https://youtu.be/oZPR_78wCnY)
+	- [ ] Logical Properties: [Article](https://blog.webdevsimplified.com/2021-05/css-logical-properties/)
+	- [ ] Media Queries: [Video](https://youtu.be/yU7jJ3NbPdA)
+	- [ ] Container Queries: [Video](https://youtu.be/rrLAg7xNERA)
+	- [ ] Animation
+		- [ ] Basics: [Video](https://youtu.be/YszONjKpgg4)
+		- [ ] Advanced: [Video](https://youtu.be/4PStxeSIL9I)
+		- [ ] Transform: [Video](https://blog.webdevsimplified.com/2021-01/css-tranform/)
+		- [ ] Fill Mode: [Video](https://blog.webdevsimplified.com/2020-03/animation-fill-mode/)
+	- [ ] TailwindCSS: [Documentation](https://tailwindcss.com/docs/installation)
+- [ ] JavaScript
+	- [ ] Async vs Defer Script Loading
+		- [ ] [Video](https://youtu.be/BMuFBYw91UQ)
+		- [ ] [Article](https://blog.webdevsimplified.com/2019-12/javascript-loading-attributes-explained/)
+	- [ ] Var vs Let vs Const
+		- [ ] [Video](https://youtu.be/9WIJQDvt4Us)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/)
+	- [ ] Function Basics: [Video](https://youtu.be/FOD408a0EzU)
+	- [ ] Callbacks
+		- [ ] [Video](https://youtu.be/7UMuJMiNjSk)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-10/javascript-functions-as-arguments/)
+	- [ ] Arrow Functions
+		- [ ] [Video](https://youtu.be/h33Srr5J9nY)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-09/arrow-functions/)
+	- [ ] Hoisting
+		- [ ] [Video](https://youtu.be/EvfRXyKa_GI)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-07/javascript-hoisting/)
+	- [ ] Scoping: [Article](https://blog.webdevsimplified.com/2022-10/js-scoping/)
+	- [ ] Closures: [Video](https://youtu.be/3a0I8ICR1Vg)
+	- [ ] Strict Equality
+		- [ ] [Video](https://youtu.be/C5ZVC4HHgIg)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-08/==-vs-===/)
+	- [ ] Objects: [Video](https://youtu.be/napDjGFjHR0)
+	- [ ] Arrays: [Video](https://youtu.be/7W4pQQ20nJg)
+	- [ ] Reference Vs Value
+		- [ ] [Video](https://youtu.be/-hBJz2PPIVE)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-03/js-reference-vs-value/)
+	- [ ] DOM Traversal: [Video](https://youtu.be/v7rSSy8CaYE)
+	- [ ] DOM Manipulation: [Video](https://youtu.be/y17RuWkWdn8)
+	- [ ] Event Listeners
+		- [ ] [Video](https://youtu.be/XF1_MlZ5l6M)
+		- [ ] [Article](https://blog.webdevsimplified.com/2022-01/event-listeners/)
+	- [ ] Control Flow
+		- [ ] [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+		- [ ] If & Else: [Article](https://www.w3schools.com/js/js_if_else.asp)
+		- [ ] Switches: [Article](https://www.w3schools.com/js/js_switch.asp)
+		- [ ] Loops
+			- [ ] For: [Article](https://www.w3schools.com/js/js_loop_for.asp)
+				- [ ] Iterables: [Article](https://www.w3schools.com/js/js_iterables.asp)
+				- [ ] For In: [Article](https://www.w3schools.com/js/js_loop_forin.asp)
+				- [ ] For Of: [Article](https://www.w3schools.com/js/js_loop_forof.asp)
+			- [ ] While: [Article](https://www.w3schools.com/js/js_loop_while.asp)
+			- [ ] Break: [Article](https://www.w3schools.com/js/js_break.asp)
+	- [ ] Promises
+		- [ ] [Video](https://youtu.be/DHvZLI7Db8E)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-09/javascript-promises/)
+	- [ ] Async Await
+		- [ ] [Video](https://youtu.be/V_Kr9OSfDeU)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-11/async-await/)
+	- [ ] Fetch
+		- [ ] [Video](https://youtu.be/cuEtnrL9-H0)
+		- [ ] [Article](https://blog.webdevsimplified.com/2022-01/js-fetch-api/)
+	- [ ] Browser Storage
+		- [ ] [Video](https://youtu.be/GihQAC1I39Q)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
+	- [ ] Event Loop
+		- [ ] [Article](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)
+		- [ ] [Video](https://youtu.be/lqLSNG_79lI)
+		- [ ] Advanced: [Video](https://youtu.be/8aGhZQkoFbQ)
+	- [ ] Modules
+		- [ ] [Video](https://youtu.be/cRHQNNcYf6s)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-11/es6-modules/)
+	- [ ] Null Vs Undefined
+		- [ ] [Video](https://youtu.be/7bpQUVK9Gn4)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-01/null-vs-undefined/)
+	- [ ] Recursion
+		- [ ] [Video](https://youtu.be/6oDQaB2one8)
+		- [ ] [Article](https://blog.webdevsimplified.com/2021-04/recursion/)
+	- [ ] Bundlers
+		- [ ] Parcel: [Video](https://youtu.be/DblzpCoPakw)
+	- [ ] Array Methods
+		- [ ] Basics: [Video](https://youtu.be/R8rmfD9Y5-c)
+		- [ ] Advanced: [Video](https://youtu.be/mSBnJvHtgD0)
+	- [ ] Template Literals
+		- [ ] Basics: [Video](https://youtube.com/shorts/89pQ3Vc25GE)
+		- [ ] Advanced: [Advanced Video](https://youtu.be/sX4svSMYdt0)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-03/tagged-template-literals/)
+	- [ ] Destructuring /Spread Operator
+		- [ ] [Video](https://youtu.be/NIq3qLaHCIs)
+		- [ ] [Article](https://blog.webdevsimplified.com/2020-08/destructuring-and-spread/)
+- [ ] React
+	- [ ] Component Model: [Video](https://youtu.be/1wZoGFF_oi4)
+	- [ ] JSX [Documentation](https://react.dev/learn/writing-markup-with-jsx)
+	- [ ] Props: [Video](https://youtu.be/IYvD9oBCuJI)
+	- [ ] Event Handlers: [Documentation](https://react.dev/learn/responding-to-events)
+	- [ ] Lists: [Documentation](https://react.dev/learn/rendering-lists)
+	- [ ] Conditional Rendering: [Documentation](https://react.dev/learn/conditional-rendering)
+	- [ ] Portal
+		- [ ] [Video](https://youtu.be/LyLa7dU5tp8)
+		- [ ] [Article](https://blog.webdevsimplified.com/2019-12/how-to-use-react-portal/)
+	- [ ] Hooks
+		- [ ] React
+			- [ ] Callback (useCallback)
+				- [ ] [Documentation](https://react.dev/reference/react/useCallback)
+				- [ ] [Video](https://youtu.be/_AyFP5s69N4)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-05/memoization-in-react/)
+			- [ ] Context (useContext)
+				- [ ] [Video](https://youtu.be/5LrDIWkK_Bc)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-06/use-context/)
+				- [ ] useContext: [Documentation](https://react.dev/reference/react/useContext)
+				- [ ] createContext: [Documentation](https://react.dev/reference/react/createContext)
+			- [ ] Effect (useEffect)
+				- [ ] [Documentation](https://react.dev/reference/react/useEffect)
+				- [ ] [Video](https://youtu.be/0ZJgIjIuY7U)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-04/use-effect/)
+				- [ ] Best Practices: [Article](https://click.convertkit-mail4.com/lmudpd82dmfmh0x47e6t6h80wq000cg/e0hph0u0o7wl0mt7/aHR0cHM6Ly9ldGhhbm5pc2VyLmRldi9ibG9nL2VmZmVjdC1iZXN0LXByYWN0aWNlcy8=)
+			- [ ] ID (useId): [Documentation](https://react.dev/reference/react/useId)
+			- [ ] Layout Effect (useLayoutEffect)
+				- [ ] [Documentation](https://react.dev/reference/react/useLayoutEffect)
+				- [ ] [Video](https://youtu.be/wU57kvYOxT4)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-07/use-layout-effect/)
+			- [ ] Memoization
+				- [ ] useMemo: [Documentation](https://react.dev/reference/react/useMemo)
+				- [ ] memo: [Documentation](https://react.dev/reference/react/memo)
+			- [ ] Reducer (useReducer)
+				- [ ] [Documentation](https://react.dev/reference/react/useReducer)
+				- [ ] [Video](https://youtu.be/kK_Wqx3RnHk)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-06/use-reducer/)
+			- [ ] Ref (useRef)
+				- [ ] [Video](https://youtu.be/t2ypzz6gJm0)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-05/use-ref/)
+				- [ ] useRef: [Documentation](https://react.dev/reference/react/useRef)
+				- [ ] forwardRef: [Documentation](https://react.dev/reference/react/forwardRef)
+			- [ ] State (useState)
+				- [ ] [Documentation](https://react.dev/reference/react/useState)
+				- [ ] [Video](https://youtu.be/O6P86uwfdR0)
+				- [ ] [Article](https://blog.webdevsimplified.com/2020-04/use-state/)
+		- [ ] Custom Hooks
+			- [ ] [Documentation](https://react.dev/learn/reusing-logic-with-custom-hooks)
+			- [ ] [Video](https://youtu.be/6ThXsUwLWvc)
+			- [ ] [Article](https://blog.webdevsimplified.com/2019-11/how-to-write-custom-hooks/)
+	- [ ] Components
+		- [ ] React
+			- [ ] Fragment
+				- [ ] [Documentation](https://react.dev/reference/react/Fragment)
+				- [ ] [Video](https://youtube.com/shorts/dTKWCEjK5sI)
+			- [ ] Suspense: [Documentation](https://react.dev/reference/react/Suspense)
+		- [ ] React DOM
+			- [ ] Input: [Documentation](https://react.dev/reference/react-dom/components/input)
+			- [ ] Option: [Documentation](https://react.dev/reference/react-dom/components/option)
+			- [ ] Progress: [Documentation](https://react.dev/reference/react-dom/components/progress)
+			- [ ] Select: [Documentation](https://react.dev/reference/react-dom/components/select)
+			- [ ] Textarea: [Documentation](https://react.dev/reference/react-dom/components/textarea)
+	- [ ] APIs
+		- [ ] React
+			- [ ] lazy: [Documentation](https://react.dev/reference/react/lazy)
+			- [ ] startTransition: [Documentation](https://react.dev/reference/react/startTransition)
+		- [ ] React DOM
+			- [ ] createPortal: [Documentation](https://react.dev/reference/react-dom/createPortal)
+	- [ ] Rules
+		- [ ] Components and Hooks must be Pure: [Documentation](https://react.dev/reference/rules/components-and-hooks-must-be-pure)
+		- [ ] React calls Components and Hooks: [Documentation](https://react.dev/reference/rules/react-calls-components-and-hooks)
+		- [ ] Rules of Hooks: [Documentation](https://react.dev/reference/rules/rules-of-hooks)
+	- [ ] React Server Components
+		- [ ] Server Components: [Documentation](https://react.dev/reference/rsc/server-components)
+		- [ ] Server Actions: [Documentation](https://react.dev/reference/rsc/server-actions)
+		- [ ] 'use-client' Directive: [Documentation](https://react.dev/reference/rsc/use-client)
+		- [ ] 'use-server' Directive: [Documentation](https://react.dev/reference/rsc/use-server)
+	- [ ] Best Practices
+		- [ ] [Video 1](https://youtu.be/0yzoAbrjV6k)
+		- [ ] [Video 2](https://youtu.be/oZZEI23Ri6E)
+		- [ ] [Video 3](https://youtu.be/NZqMVUEiDIw)
+		- [ ] [Video 4](https://youtu.be/tz0fDABt67g)
+		- [ ] [Video 5](https://youtu.be/UUga4-z7b6s)
+		- [ ] [Article 1](https://blog.webdevsimplified.com/2019-12/always-prefer-local-state/)
+		- [ ] [Article 2](https://blog.webdevsimplified.com/2019-11/never-store-derived-state/)
+		- [ ] [Article 3](https://blog.webdevsimplified.com/2020-10/react-debounce/)
+		- [ ] [Article 4](https://blog.webdevsimplified.com/2022-07/react-folder-structure/)
+- [ ] Next.js
+	- [ ] Routing: [Documentation](https://nextjs.org/docs/app/building-your-application/routing)
+		- [ ] Defining Routes: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
+		- [ ] Pages and Layouts: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
+		- [ ] Linking and Navigating: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating)
+		- [ ] Loading UI and Streaming: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming)
+		- [ ] Error Handling: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/error-handling)
+		- [ ] Redirecting: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/redirecting)
+		- [ ] Route Groups: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
+		- [ ] Project Organization: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/colocation)
+		- [ ] Dynamic Routes: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
+		- [ ] Parallel Routes
+			- [ ] [Documentation](https://nextjs.org/docs/app/building-your-application/routing/parallel-routes)
+			- [ ] [Video](https://youtu.be/wi8kF8UniUI)
+		- [ ] Intercepting Routes: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/intercepting-routes)
+		- [ ] Route Handlers: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+		- [ ] Middleware: [Documentation](https://nextjs.org/docs/app/building-your-application/routing/middleware)
+	- [ ] Data Fetching
+		- [ ] Fetching, Caching, and Revalidating
+			- [ ] [Documentation](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating)
+			- [ ] [Article](https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/)
+		- [ ] Server Actions and Mutations
+			- [ ] [Documentation](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations)
+			- [ ] [Video](https://youtu.be/10Yt5vRimNI)
+			- [ ] [Video](https://youtu.be/dDpZfOQBMaU)
+			- [ ] useOptimistic/useFormState/useFormStatus
+				- [ ] [Video](https://www.youtube.com/watch?v=BCQK4STfzn4)
+				- [ ] [Video](https://www.youtube.com/watch?v=ffveQQtxNgM&pp=ygUOInVzZUZvcm1TdGF0ZSI%3D)
+				- [ ] useOptimistic: [Video](https://www.youtube.com/watch?v=M3mGY0pgFk0&t=125s&pp=ygUNdXNlT3B0aW1pc3RpYw%3D%3D)
+				- [ ] useFormStatus: [Video](https://www.youtube.com/watch?v=_tUdtt6H5CE&pp=ygUMdXNlRm9ybVN0YXRl)
+		- [ ] Best Practices: [Documentation](https://nextjs.org/docs/app/building-your-application/data-fetching/patterns)
+	- [ ] Rendering: [Documentation](https://nextjs.org/docs/app/building-your-application/rendering)
+		- [ ] Server Components: [Documentation](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+		- [ ] Client Components: [Documentation](https://nextjs.org/docs/app/building-your-application/rendering/client-components)
+		- [ ] Composition Patterns
+			- [ ] [Documentation](https://nextjs.org/docs/app/building-your-application/rendering/composition-patterns)
+			- [ ] [Article](https://blog.webdevsimplified.com/2023-11/react-server-components/)
+			- [ ] [Video](https://www.youtube.com/watch?v=p02AIAoImzU)
+	- [ ] Caching: [Documentation](https://nextjs.org/docs/app/building-your-application/caching)
+	- [ ] Styling
+		- [ ] TailwindCSS: [Documentation](https://nextjs.org/docs/app/building-your-application/styling/tailwind-css)
+		- [ ] CSS Modules: [Documentation](https://nextjs.org/docs/app/building-your-application/styling/css-modules)
+	- [ ] Configuration
+		- [ ] Environment Variables: [Documentation](https://nextjs.org/docs/app/building-your-application/configuring/environment-variables)
+		- [ ] Module Path Aliases: [Documentation](https://nextjs.org/docs/app/building-your-application/configuring/absolute-imports-and-module-aliases)
+		- [ ] *src* Directory: [Documentation](https://nextjs.org/docs/app/building-your-application/configuring/src-directory)
+	- [ ] Production Checklist: [Documentation](https://nextjs.org/docs/app/building-your-application/deploying/production-checklist)
+	- [ ] Components
+		- [ ] Font: [Documentation](https://nextjs.org/docs/app/api-reference/components/font)
+		- [ ] Image (\<Image>): [Documentation](https://nextjs.org/docs/app/api-reference/components/image)
+		- [ ] Link (\<Link>): [Documentation](https://nextjs.org/docs/app/api-reference/components/link)
+		- [ ] Script (\<Script>): [Documentation](https://nextjs.org/docs/app/api-reference/components/script)
+	- [ ] Functions
+		- [ ] Fetch: [Documentation](https://nextjs.org/docs/app/api-reference/functions/fetch)
+		- [ ] NextRequest: [Documentation](https://nextjs.org/docs/app/api-reference/functions/next-request)
+		- [ ] NextResponse: [Documentation](https://nextjs.org/docs/app/api-reference/functions/next-response)
+		- [ ] Redirect: [Documentation](https://nextjs.org/docs/app/api-reference/functions/redirect)
+		- [ ] Params (useParams): [Documentation](https://nextjs.org/docs/app/api-reference/functions/use-params)
+		- [ ] Pathname (usePathname): [Documentation](https://nextjs.org/docs/app/api-reference/functions/use-pathname)
+		- [ ] Router (useRouter): [Documentation](https://nextjs.org/docs/app/api-reference/functions/use-router)
+		- [ ] Search Params (useSearchParams): [Documentation](https://nextjs.org/docs/app/api-reference/functions/use-search-params)
+		- [ ] Create Next App (create-next-app): [Documentation](https://nextjs.org/docs/app/api-reference/create-next-app)
+- [ ] TypeScript
+	- [ ] General
+		- [ ] Tips: [Video](https://www.youtube.com/watch?v=8HoOxOd86M4&t=693s&pp=ygUTdHlwZXNjcmlwdCBhcyBjb25zdA%3D%3D)
+		- [ ] Basic Types: [Documentation](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+		- [ ] Narrowing: [Documentation](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
+		- [ ] Functions: [Documentation](https://www.typescriptlang.org/docs/handbook/2/functions.html)
+		- [ ] Objects: [Documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html)
+		- [ ] Advanced Types
+			- [ ] Indexed Access: [Documentation](https://www.typescriptlang.org/docs/handbook/2/indexed-access-types.html)
+			- [ ] Conditional: [Documentation](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html)
+			- [ ] Mapped: [Documentation](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html)
+			- [ ] Template Literals: [Documentation](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
+	- [ ] TSConfig
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+		- [ ] [Documentation](https://www.typescriptlang.org/tsconfig/)
+	- [ ] Type Inference
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/type-inference.html#handbook-content)
+	- [ ] Array Type
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#arrays)
+	- [ ] Any/Unknown Type
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#any)
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/functions.html#unknown)
+		- [ ] [Video](https://youtube.com/shorts/5SjoMNVwd4s)
+	- [ ] Type vs Interfaces
+		- [ ] [Video](https://youtu.be/oiFo2z8ILNo)
+		- [ ] [Video](https://www.youtube.com/watch?v=zM9UPcIyyhQ&pp=ygUZdHlwZXNjcmlwdCBCdWlsdCBJbiBUeXBlcw%3D%3D)
+	- [ ] Functions
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#functions)
+		- [ ] [Video](https://www.youtube.com/watch?v=34xpwykL4Uc&pp=ygUUdHlwZXNjcmlwdCBmdW5jdGlvbnM%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=950HilsLslE&pp=ygUadHlwZXNjcmlwdCBhcnJvdyBmdW5jdGlvbnM%3D)
+	- [ ] Unions & Intersections
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#unions)
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html#intersection-types)
+		- [ ] [Video](https://www.youtube.com/watch?v=xsfdypZCLQ8&t=84s&pp=ygUQdHlwZXNjcmlwdCB1bmlvbg%3D%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=EsoRUqFutYU&pp=ygUXdHlwZXNjcmlwdCBpbnRlcnNlY3Rpb24%3D)
+	- [ ] Readonly
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html#readonlytype)
+		- [ ] [Video](https://www.youtube.com/watch?v=U1EygIpjAEM&pp=ygUTdHlwZXNjcmlwdCByZWFkb25seQ%3D%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=lLM6ozP8UXE&pp=ygUTdHlwZXNjcmlwdCByZWFkb25seQ%3D%3D)
+	- [ ] keyof/typeof
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/keyof-types.html)
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/typeof-types.html)
+		- [ ] [Video](https://www.youtube.com/watch?v=KfrJCg4tWZg&pp=ygUgdHlwZXNjcmlwdCByZWFkb25seS9rZXlvZi90eXBlb2Y%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=Eat7AXkEtNs&pp=ygUgdHlwZXNjcmlwdCByZWFkb25seS9rZXlvZi90eXBlb2Y%3D)
+	- [ ] As Const
+		- [ ] [Video](https://www.youtube.com/watch?v=6M9aZzm-kEc&pp=ygUTdHlwZXNjcmlwdCBhcyBjb25zdA%3D%3D)
+	- [ ] Enums
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/enums.html#handbook-content)
+		- [ ] [Video](https://www.youtube.com/watch?v=jjMbPt_H3RQ&pp=ygUQdHlwZXNjcmlwdCBlbnVtcw%3D%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=Anu8vHXsavo&pp=ygUQdHlwZXNjcmlwdCBlbnVtcw%3D%3D)
+	- [ ] Tuples
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/objects.html#tuple-types)
+	- [ ] Generics
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+		- [ ] [Video](https://youtu.be/EcCTIExsqmI)
+	- [ ] Built In Types (Pick, Omit, etc.)
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+		- [ ] [Video](https://www.youtube.com/watch?v=q5DFpyIN5Xs&pp=ygUZdHlwZXNjcmlwdCBCdWlsdCBJbiBUeXBlcw%3D%3D)
+	- [ ] Type Guards
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#typeof-type-guards)
+		- [ ] [Video](https://www.youtube.com/watch?v=_u23NOHC6WU&pp=ygUWdHlwZXNjcmlwdCBUeXBlIEd1YXJkcw%3D%3D)
+	- [ ] Satisfies
+		- [ ] [Video](https://www.youtube.com/watch?v=r1L35zxZQPE&t=53s&pp=ygUUdHlwZXNjcmlwdCBTYXRpc2ZpZXM%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=r1L35zxZQPE&t=53s&pp=ygUUdHlwZXNjcmlwdCBTYXRpc2ZpZXM%3D)
+	- [ ] Discriminated Union
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions)
+		- [ ] [Video](https://youtu.be/xsfdypZCLQ8)
+	- [ ] Function Overloads
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#function-overloads)
+		- [ ] [Video](https://www.youtube.com/watch?v=D1a8OoBWi1g&pp=ygUfdHlwZXNjcmlwdCBmdW5jdGlvbiBvdmVybG9hZGluZw%3D%3D)
+		- [ ] [Video](https://www.youtube.com/watch?v=XnyZXNnWAOA&pp=ygUfdHlwZXNjcmlwdCBmdW5jdGlvbiBvdmVybG9hZGluZw%3D%3D)
+	- [ ] Type Predicate
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates)
+		- [ ] [Video](https://youtu.be/Wksz1DnJ2VM)
+	- [ ] Declaration Files
+		- [ ] [Documentation](https://www.typescriptlang.org/docs/handbook/declaration-files/deep-dive.html)
+		- [ ] [Video](https://youtu.be/zu-EgnbmcLY)
+		- [ ] [Video](https://youtu.be/GVUPOvCRmSY)
